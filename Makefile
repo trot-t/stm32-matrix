@@ -1,5 +1,6 @@
 # http://www.nabiltewolde.com/2011/10/using-stm32f4-discovery-board-in-osx.html
 # http://nis-embedded.blogspot.com/2012/03/i-stm32f4-discovery-part5-make-full.html
+#
 TARGET:=matrix
 TOOLCHAIN_PATH:=~/gcc-arm-none-eabi-4_6-2012q1/bin
 #TOOLCHAIN_PATH:=~/sat/bin
